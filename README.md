@@ -71,7 +71,7 @@ This repository provides a **thorough** example of modeling a 2D beam bridge in 
 If you find this code beneficial to your research or practical projects, please use the following reference:
 
 > **Talebi-Kalaleh, M. (2025).** *Modeling of 2D Moving Loads using OpenSeesPy [Source code].* GitHub.  
-> <https://github.com/MTalebi/Moving_Load_OpenSees> *(Published March 10, 2025).*
+> <https://github.com/MTalebi/Moving-Load-OpenSees/> *(Published March 10, 2025).*
 
 ---
 
