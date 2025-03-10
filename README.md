@@ -1,6 +1,6 @@
 # 2D Beam Bridge Model in OpenSees with Moving Loads
 
-This repository provides a **concise yet thorough** example of modeling a 2D beam bridge in [OpenSeesPy](https://openseespydoc.readthedocs.io) and analyzing its **dynamic response** to moving vehicular loads. The approach combines **finite element discretization**, **Rayleigh damping**, and **Path TimeSeries** to apply time-varying forces from multiple axles.
+This repository provides a **thorough** example of modeling a 2D beam bridge in [OpenSeesPy](https://openseespydoc.readthedocs.io) and analyzing its **dynamic response** to moving vehicular loads. The approach combines **finite element discretization**, **Rayleigh damping**, and **Path TimeSeries** to apply time-varying forces from multiple axles.
 
 ---
 
