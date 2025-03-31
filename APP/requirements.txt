@@ -1,5 +1,5 @@
 numpy>=1.20
 matplotlib>=3.3
-openseespy-pip>=3.5
+openseespy-pip>=3.5.1.5
 streamlit>=1.44.0
 
